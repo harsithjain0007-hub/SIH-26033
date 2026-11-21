@@ -150,11 +150,44 @@ Solution: A voice-first, regional-language design with WhatsApp/IVR support and 
 
 8.Incumbents: position as a complement; local traders can join as registered buyers or logistics partners.
 
-## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+## Impact and Benefits:
+## 1. Potential impact on the target audience:
 
-## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+Farmers and FPOs: higher realized price, a known buyer and price before harvest, less distress selling, faster and safer payment.
+
+Consumers and bulk buyers: fresher produce, lower prices through fewer layers, and transparency through the Price Passport.
+
+Transporters: better truck utilization through return-load matching.
+
+Government: better visibility on supply, demand and price trends for policy decisions
+
+## 2. Benefits of the solution:
+
+Social: empowers small and marginal farmers, includes low-literacy users, and builds trust between rural producers and urban buyers.
+
+Economic: a larger farmer share of the consumer rupee, lower consumer prices, new income for local logistics partners, and reduced middleman margins.
+
+Environmental: less food waste through pre-harvest matching and shelf-life routing, and fewer empty vehicle trips, which means lower fuel use and emissions.
+
+Technological: a reusable, data-driven foundation for agri-supply chains that can integrate with ONDC and government platforms.
+
+## Research and References:
+
+1. e-NAM (National Agriculture Market): https://enam.gov.in
+
+2. Agmarknet (mandi price data): https://agmarknet.gov.in
+
+3.Open Government Data Platform India (datasets): https://data.gov.in
+
+4.ONDC (Open Network for Digital Commerce): https://ondc.org
+
+5.Bhashini (Indian-language AI services): https://bhashini.gov.in
+
+6.Google OR-Tools (vehicle routing): https://developers.google.com/optimization
+
+7.Prophet (time-series forecasting): https://facebook.github.io/prophet
+
+8.Open-Meteo (weather API): https://open-meteo.com
+
+9.Government schemes on FPOs and the digital agriculture mission: search the official Ministry of Agriculture & Farmers Welfare pages for the latest figures.
+
