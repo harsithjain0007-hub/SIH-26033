@@ -87,12 +87,18 @@ Solution: AI quality grading, escrow payments, FPO verification, and farmer and 
 Solution: A voice-first, regional-language design with WhatsApp/IVR support and an offline-first app makes the platform usable for farmers with limited literacy or poor connectivity.
 
 
-## 3. Innovation and uniqueness
+## 3. Innovation and uniqueness:
+
   ~Pre-harvest demand matching: most marketplaces only sell what is already harvested. We match supply with demand before harvest.
+  
   ~Return-load logistics matching: a low-cost approach to the "last-mile" cost problem, using vehicles that would otherwise travel empty.
+  
   ~Price Passport: a transparency layer showing consumers and farmers exactly where the money goes.
+  
   ~AI quality grading on a basic smartphone: removes the need for physical inspectors.
+  
   ~Inclusive access: voice, WhatsApp and IVR for farmers with limited literacy or smartphone use.
+  
   ~Interoperable by design: built to plug into open networks such as ONDC and government data (Agmarknet, e-NAM), so it complements existing systems.
 
 ## METHODOLOGY AND PROCESS FOR IMPLEMENTATION:
