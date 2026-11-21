@@ -116,12 +116,19 @@ Solution: A voice-first, regional-language design with WhatsApp/IVR support and 
 
 ## 2. Potential challenges and risks
   i. Farmer adoption and digital literacy: Farmers may use the platform less if the app feels complex or unfamiliar.
+  
   ii. Cold start: Buyers won't join without enough supply, and farmers won't join without enough buyers.
+  
   iii. Quality disputes: Buyers and farmers may disagree on the produce grade after delivery.
+  
   iv. Logistics reliability: Delays in pickup or delivery can cause spoilage of perishable produce.
+  
   v.  Payment and trust concerns: Farmers may fear non-payment, and buyers may fear receiving poor-quality produce.
+  
   vi. Forecast inaccuracy: Wrong demand or price predictions, especially for volatile crops, can lead to losses.
+  
   vii. Poor connectivity: Weak networks in rural areas can disrupt listing, ordering and payment.
+  
   viii. Competition and incumbents: Existing traders and platforms may resist the change or compete aggressively.
 
 
